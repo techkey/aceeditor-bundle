@@ -1,0 +1,3 @@
+[submodule "Resources/public/ace"]
+	path = Resources/public/ace
+	url = https://github.com/ajaxorg/ace-builds
